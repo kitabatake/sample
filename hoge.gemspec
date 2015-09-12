@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name        = 'rails'
   s.version     = version
   s.summary     = 'Full-stack web application framework.'
-  s.description = 'Ruby on Rails is a full-stack web framework optimized for programmer happiness and sustainable productivity. It encourages beautiful code by favoring convention over configuration.'
+  s.description = 'Ruby on Rails is.'
 
   s.required_ruby_version     = '>= 2.2.2'
   s.required_rubygems_version = '>= 1.8.11'
